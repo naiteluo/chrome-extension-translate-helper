@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Translate Helper",
+    "description": "Add translate button to context menu",
+    "version": "1.0",
+    "permissions": [
+        "contextMenus"
+    ],
+    "icons": {
+        "48": "./assets/icons8-china-48.png",
+        "96": "./assets/icons8-china-96.png"
+    },
+    "background": {
+        "service_worker": "background.js",
+        "type": "module"
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "chrome-translate-helper",
+  "version": "1.0.0",
+  "description": "chrome extension that add translate button to context menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chrome"
+  ],
+  "author": "naiteluo",
+  "license": "MIT"
+}
